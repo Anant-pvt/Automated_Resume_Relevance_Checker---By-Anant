@@ -1,0 +1,7 @@
+streamlit==1.26.1
+docx2txt==0.8
+PyMuPDF==1.22.5
+scikit-learn==1.3.2
+pandas==2.1.1
+numpy==1.26.2
+altair==5.0.1
